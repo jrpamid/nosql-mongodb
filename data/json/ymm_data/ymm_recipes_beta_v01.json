@@ -1,0 +1,96 @@
+[
+
+  {
+    "_id" : "c2102009-5c5c-598a-8bfb-6af3f569490f",
+    "recipeName" : "Simple Chili Recipe",
+    "recipeDescription" : "Very simple warm comfort food, easy on the pocket and loaded  with healthy veggies and meat.",
+    "imageURL" : "",
+    "recipeCredits" : {
+        "source": "https://www.bbcgoodfood.com",
+        "recipe_source_url" : "https://www.bbcgoodfood.com/recipes/chilli-con-carne-recipe",
+        "chef" :  "Good Food",
+        "crawled_at": "03/29/2020, 01:29:15", 
+
+    },
+    "recipeCategory" : "easy",
+    "recipeCuisine" : "",
+    "suitableForDiet" : ["paleo","keto","healthy"],
+    "recipeYield" : 4,
+    "recipeTime" : {
+        "prepTime" : "20 mins",
+        "cookTime" : "1 hr",
+        "totalTime" : "1 hr 20 mins"
+    },
+    "recipeInstructions" : [],
+    "nutrition" : {
+        "calories": "1200 calories",
+        "carbohydrateContent": "12 carbs",
+        "proteinContent": "9 grams of protein",
+        "fatContent": "9 grams fat"
+    },
+    "stats": {
+        "total_ratings": "1789 ratings",
+        "total_comments" : "520"
+      }
+  },
+
+  {
+    "recipeName": "Roasted Asparagus",
+    "recipeDescription" : "Simple and Easy healthy veggie side that can complement any pasta, meats for a  light and healthy dinner  or lunch.",
+    "imageURL" : "",
+    "recipeCategory" : "easy",
+    "recipeCuisine" : "",
+    "suitableForDiet" : ["all"],
+    "recipeYield" : 4,
+    "recipeTime" : {
+        "prepTime" : "10 mins",
+        "cookTime" : "15 mins",
+        "totalTime" : "35 mins"
+    },
+    "ingredients": [
+        {
+            "quantity": "500 gms",
+            "name": " Asparagus",
+            "type": "Produce"
+        },
+        {
+            "quantity": "1 1/2 tbsp",
+            "name": "olive oil",
+            "type": "Condiments"
+        },
+        {
+            "quantity": "1/2 tsp",
+            "name": "kosher salt",
+            "type": "Baking"
+        },
+        {
+            "quantity": "1/2 tsp",
+            "name": "crushed black pepper",
+            "type": "Baking"
+        }
+    ],
+    "recipeInstructions": [
+        "Preheat oven to 425°F.",
+        "Cut off the woody bottom part of the asparagus spears and discard.",
+        "With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\",string.\", and if you eat asparagus you know what I mean by that).",
+        "Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
+        "Sprinkle with salt.",
+        "With your hands, roll the asparagus around until they are evenly coated with oil and salt.",
+        "Roast for 10-15 minutes, depending on the thickness of your stalks and how tender you like them.",
+        "They should be tender when pierced with the tip of a knife.",
+        "The tips of the spears will get very brown but watch them to prevent burning.",
+        "They are great plain, but sometimes I serve them with a light vinaigrette if we need something acidic to balance out our meal."
+    ],
+    "nutrition" : {
+        "calories": "1200 calories",
+        "carbs": "12 carbs",
+        "protein": "9 grams of protein",
+        "fat": "9 grams fat"
+    },
+    "interactionStatistic": {
+        "interactionType": "http://schema.org/Comment",
+        "userInteractionCount": "5"
+      }
+    
+}
+]
